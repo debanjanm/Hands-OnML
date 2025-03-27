@@ -1,1 +1,1 @@
-# ML-From-Scratch
+# CodeTrain-ML
