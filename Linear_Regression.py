@@ -27,6 +27,7 @@ class LinearRegression:
         Returns: np.ndarray of shape (n_samples,)
         """
         return X @ self.coefficients + self.intercept
+    
 if __name__ == "__main__":
     # Example usage
     import numpy as np
